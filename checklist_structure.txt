@@ -1,0 +1,15 @@
+TC: 1
+
+Title: Redirect to Sign up form after click the [Trade now] button in every row
+
+Preconditions: capital.com is open
+
+Steps: Click the [Trade now] button on the [Why Capital.com] block
+
+Expected Result: Pop-up [login and registration] opened.
+
+Actual Result: Pop-up [login and registration] opened.
+
+Comment:
+
+

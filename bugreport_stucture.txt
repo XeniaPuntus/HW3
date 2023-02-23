@@ -1,0 +1,19 @@
+ID: 01
+Issue Title: Does not working
+Issue Type: Bug
+Priority: Low
+Author: Xenia Puntus
+Severity: Critical
+Build: XXX
+Environment: Windows 10 Home
+
+
+Issue Description
+Steps to reproduce:
+1.
+2.
+3.
+
+Expected result: Working
+
+Actual result: Does not working
